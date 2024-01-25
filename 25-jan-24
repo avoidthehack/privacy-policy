@@ -1,0 +1,50 @@
+<p class="alert alert-warning">As of <b>15 DEC 2021</b> and <b>30 DEC 22</b> this privacy policy is combined with the previously separate cookies policy and now defunct Terms of Service policy.</p>
+​
+# avoidthehack Privacy Policy
+This privacy policy was last updated: **25 JAN 2024** Previous versions of the privacy policy are [available on GitHub](https://github.com/avoidthehack/privacy-policy).
+​
+As a website that promotes end-user cybersecurity and privacy, avoidthehack! respects the privacy of all visitors. As a testament to this, this privacy policy will be short and easy to understand.
+​
+## Information collected
+avoidthehack (which includes web properties owned by avoidthehack) uses [Umami for analytics](https://umami.is/), which is an open-source and privacy-friendly analytics software. It is GDPR and CCPA compliant.
+​
+Umami is self-hosted on cloud server infrastructure provided by Vultr, so the limited information it captures is only available for website administrator use. avoidthehack's instance of Umami collects:
+​
+* User-agent string
+* The pages of this website (and only this website) that you visit
+* Your browser's referrer header, _if_ one is sent. This is automatically anonymized so only the domain of the URL is collected, even if your browser offers the full string.
+​
+The Umami analytics software does not store cookies on your device or log IP addresses. If your browser happens to send a "do not track" (DNT) request to the avoidthehack website on your behalf, these requests are honored by default.
+​
+avoidthehack doesn't collect personally identifiable information without consent.
+​
+## How avoidthehack uses your information
+The information avoidthehack collects via Umami is used to further improve avoidthehack for all visitors. Information collected is used to:
+​
+* Optimize this website for speed and ease-of-use
+* Ensure site security from potential attackers
+* Understand traffic volume (hits per page)
+​
+If you reach out to the general inbox on the contact page, then your email address will be used to respond to your message.
+​
+Users wanting to remain anonymous when contacting avoidthehack are encouraged to use an alias or a temporary email address to do so. Also, you can reach out to us via social media.
+​
+**avoidthehack! DOES NOT sell any personal information... because there's nothing to sell.**
+​
+## Cookies from avoidthehack
+[size=24]KEY TAKEAWAYS:[/size]
+​
+* avoidthehack **DOES NOT** use third-party cookies.
+* All cookies from avoidthehack! are first-party only
+    * avoidthehack uses "essential" cookies, which are essential for proper website functions and nothing else
+    * avoidthehack uses a session cookie that expires automatically after 30 mins
+​
+## Cookies from avoidthehack!
+avoidthehack! uses **session cookies**.
+​
+### Session cookies
+A session cookie is used to identify a particular visit to avoidthehack!. The session cookie is set to expire after 30 minutes, or after you close your web browser after visiting avoidthehack. 
+​
+These cookies are used to identify you during a single browsing session and do not store personally identifiable information.
+​
+<center><a class="read-more button" href="/random">Take Me to a Random Article</a></center>
