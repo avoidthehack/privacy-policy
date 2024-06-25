@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://infosec.exchange/@avoidthehack">
-  <img src="https://img.shields.io/badge/Follow_@avoidthehack@infosec.exchange-2.8k-blue?logo=mastodon&style=social"></a>  <a href="https://ko-fi.com/avoidthehack"><img src="https://img.shields.io/badge/KoFi-22?logo=kofi&style=social"></a></br>
+  <img src="https://img.shields.io/badge/Follow_@avoidthehack@infosec.exchange-3.1k-blue?logo=mastodon&style=social"></a>  <a href="https://ko-fi.com/avoidthehack"><img src="https://img.shields.io/badge/KoFi-22?logo=kofi&style=social"></a></br>
 <img src="https://img.shields.io/github/issues-raw/avoidthehack/privacy-policy"></div>
 
 This is a simple repo for housing the current and archived versions of the avoidthehack.com privacy policy.
